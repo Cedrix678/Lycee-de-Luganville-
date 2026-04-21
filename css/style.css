@@ -444,7 +444,7 @@ iframe {
   cursor: pointer;
 }
 
-/* mobile */
+/* mobile *
 @media (max-width: 768px) {
   .menu-toggle {
     display: block;
@@ -459,7 +459,7 @@ iframe {
   .main-nav ul.open {
     display: flex;
   }
-}
+}*/
 
 /* galerie */
 .gallery-grid img {
